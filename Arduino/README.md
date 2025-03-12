@@ -1,6 +1,11 @@
 # intro_arduino
 
 Bonjour,  si vous souhaitez commencer à programmer un arduino, peu importe lequel, vous pouvez suivre ce qui est ci dessous. 
+
+Pour l'installation de l'IDE Arduino, vous pouvez le charger sur ce site https://www.arduino.cc/en/software
+
+Pour commencer, vous devez connaitre votre board et si besoin la chager ( manage board ) 
+
 Si vous voulez explorer l'arduino, il y a un site assez sympa : https://fr.vittascience.com/learn/tutorial.php?id=911/prise-en-main-de-la-carte-arduino-uno-et-de-l-interface-vittascience 
 
 
