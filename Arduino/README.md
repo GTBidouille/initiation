@@ -18,7 +18,7 @@ quasiement toutes les broches ont ce qu'on nomme des "alternates".  C'est à dir
  - I2C
  - SPI
  - PWM
-![pinout_arduino_nano](https://github.com/GTBidouille/initiation/upload/main/Arduino/images/pinout_arduino.png)
+![pinout_arduino_nano](https://github.com/GTBidouille/initiation/blob/main/Arduino/images/pinout_arduino.png)
 
 ## quelques commandes 
 - delay(1000) : permet de faire une pause d'une seconde
@@ -85,7 +85,7 @@ void loop() {
 
 ## exemple de cablage
 
-![exemple de cablaage](https://github.com/GTBidouille/initiation/upload/main/Arduino/images/exemple_cablage.png)
+![exemple de cablaage](https://github.com/GTBidouille/initiation/blob/main/Arduino/images/exemple_cablage.png)
 
 ## quelques notes
   - LOW : état de sortie ou d'entrée à 0
