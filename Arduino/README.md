@@ -387,13 +387,14 @@ void loop() {
 ### lire une sonde de température 'one wire' 
 
 petite variante de la variation de la vitesse en fontion d'une température. Celle ci sera prise sur un capteur numerique le DS18b20. 
+
 A réaliser : 
  - brancher la sonde ds18b20 selon le datasheet https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf . la patte **data** sera sur **D2**
  - brancher une led entre la  broche **D1**  et la masse (gnd). Attention à la tension de sortie de la broche **D1**, adaptez la résistance à mettre en serie
 - faire un programme
   - definir les variables
   - definir la broche **D2** en tant qu'entrée et la broche **D1** en tant que sortie et en **LOW**  dans la partie setup()
-  - dans la partie loop(), récupérer la valeur de la résistance pour qu'elle serve de temps à attendre pour le clignotement de la led. mettre la valeur sur **D1** à **LOW**, attendre le temps défini par la ersistance variable , mettre la valeur sur **D1** à **high**, attendre le temps défini par la ersistance variable.
+  - dans la partie loop(), récupérer la valeur de la résistance pour qu'elle serve de temps à attendre pour le clignotement de la led. mettre la valeur sur **D1** à **LOW**, attendre le temps défini par la résistance variable , mettre la valeur sur **D1** à **high**, attendre le temps défini par la résistance variable.
   - sur le terminal serie, afficher la valeur de la résistance et l'état de la led 
 
   - 
