@@ -32,6 +32,6 @@ Important note:
 - the keyboard layout is set to English by default
 - the French keyboard layout is also installed
 
-## Coming soon
+## how to solder our PCB
 
-A short assembly video will be added soon.
+please see this video to solder this little PCB  https://youtu.be/VdpdZ3O2D4w
