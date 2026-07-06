@@ -32,6 +32,6 @@ Note importante:
 - le clavier est configuré en anglais par défaut
 - le clavier français est également installé
 
-## À venir
+## Vidéo de montage
 
-Une petite vidéo sur le montage sera ajoutée prochainement.
+Une petite vidéo pour voir comment souder le montage https://youtu.be/VdpdZ3O2D4w
